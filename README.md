@@ -8,6 +8,7 @@
 <h2>My Stats 📈</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=midax2&show_icons=true&theme=dark&locale=en&layout=compact" alt="midax2" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=midax2)](https://git.io/streak-stats)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=midax2&theme=dark" alt="midax2" /></p>
 
 <h2>Connect with Me</h2>
