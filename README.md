@@ -4,7 +4,7 @@
 💻 Actively learning and improving skills in Java, Spring, Android Development, and Kotlin</br>
 
 <h2>Current Projects</h2>
-🔭 I'm currently working on a MBTI web social network</br>
+🔭 I'm currently working on a <a href=https://github.com/Torba2207/MBTI-Social-Service>MBTI Based Web Social Network</a></br>
 <h2>My Stats 📈</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=midax2&show_icons=true&theme=dark&locale=en&layout=compact" alt="midax2" /></p>
 
