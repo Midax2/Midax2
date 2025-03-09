@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Midax </h1> <h3 align="center">Student of Computer Science at Gdańsk University of Technology | Pursuing a Bachelor's Degree</h3>
+<h1 align="center">Hi 👋, I'm Midax </h1> <h3 align="center">Student of Computer Engineering at Gdańsk University of Technology | Pursuing a Bachelor's Degree</h3>
 <h2>About Me</h2>
 🎓 Currently pursuing my studies at Gdańsk University of Technology</br>
-💻 Actively learning and improving skills in Unity, C#, Android Development, and Kotlin</br>
+💻 Actively learning and improving skills in Java, Spring, Android Development, and Kotlin</br>
 
 <h2>Current Projects</h2>
-🔭 I'm currently working on a Pacman clone in Unity</br>
+🔭 I'm currently working on a MBTI web social network</br>
 <h2>My Stats 📈</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=midax2&show_icons=true&theme=dark&locale=en&layout=compact" alt="midax2" /></p>
 
