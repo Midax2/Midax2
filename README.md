@@ -13,4 +13,4 @@
 <h2>Connect with Me</h2>
 
 <p align="left"> <a href="https://linkedin.com/in/dmytro-dzhusov/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://www.leetcode.com/user3703oh" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> </a> </p> 
-<p>📧 Feel free to reach out via email at dmytro.dzhusov@gmail.com.</p>
+<p>📧 Feel free to reach out via email at dmytro.dzhusov@gmail.com or dima.dgusov@gmail.com.</p>
